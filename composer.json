@@ -1,0 +1,7 @@
+{
+    "name": "naderman-test/bar",
+    "description": "A test package: bar",
+    "require": {
+        "php": "^7.0.0"
+    }
+}
