@@ -1,6 +1,7 @@
 {
     "name": "naderman-test/bar",
     "description": "A test package: bar",
+    "license": "BSD-2-clause",
     "require": {
         "php": "^7.0.0"
     }
